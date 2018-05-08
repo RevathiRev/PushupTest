@@ -55,5 +55,7 @@ public class MainActivity extends AppCompatActivity {
      int j=1;
      //branch test
         int k=j+i;
+        //new branch from AS
+        int l=k;
     }
 }
