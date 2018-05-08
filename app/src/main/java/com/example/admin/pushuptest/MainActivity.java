@@ -52,5 +52,6 @@ public class MainActivity extends AppCompatActivity {
 
     private void TestMethod(){
      int i;
+     int j=1;
     }
 }
