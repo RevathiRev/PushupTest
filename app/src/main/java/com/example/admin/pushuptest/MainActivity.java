@@ -59,4 +59,6 @@ public class MainActivity extends AppCompatActivity {
         int l=k;
         //merge branch example
     }
+
+    //com.example.admin.mylibrary.MainActivity mai = new com.example.admin.mylibrary.MainActivity();
 }
